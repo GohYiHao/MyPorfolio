@@ -72,11 +72,11 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'noahsflood908@gmail.com',
+  EMAIL: 'toptall.cook@gmail.com',
   PHONE: '+1 773 295 2131',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/mymiracle0118?tab=repositories&q=&type=&language=&sort=',
+  GITHUB: 'https://github.com/toptalhook?tab=repositories&q=&type=&language=&sort=',
   LINKEDIN: '',
   TWITTER: '',
   FACEBOOK: '',
