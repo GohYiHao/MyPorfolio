@@ -1,10 +1,10 @@
-export const NAME = 'Julio Acin';
+export const NAME = 'KAI DE TAN';
 
 export const DESIGNATION = `Blockchain Developer and Smart Contract Auditor`;
 
 export const DETAILS = {
-  Residence: 'Mardrid',
-  City: 'Boadilla del Monte',
+  Residence: 'Singapore',
+  City: '57B TEMPLE STREET',
   Age: '30',
 };
 
@@ -15,23 +15,23 @@ export const SKILLS = [
   },
   {
     title: 'Smart Contract Auditor',
-    level: '20%',
+    level: '90%',
   },
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '85%',
   },
   {
     title: 'Backend Developer',
-    level: '50%',
+    level: '90%',
   },
   {
     title: 'Frontend Developer',
-    level: '60%',
+    level: '70%',
   },
   {
     title: 'App Developer',
-    level: '40%',
+    level: '60%',
   },
   // {
   //   title: 'Technical Blogger',
@@ -73,7 +73,7 @@ export const TECH_STACK = [
 
 export const CONTACTS = {
   EMAIL: 'toptall.cook@gmail.com',
-  PHONE: '+1 773 295 2131',
+  PHONE: '+65 63249310',
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/toptalhook?tab=repositories&q=&type=&language=&sort=',

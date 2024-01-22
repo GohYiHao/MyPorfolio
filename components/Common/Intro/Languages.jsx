@@ -10,7 +10,7 @@ const Languages = () => {
             if (urdu < 90) {
                 setUrdu(prevCount => prevCount + 1);
             }
-            if (english < 60) {
+            if (english < 80) {
                 setEnglish(prevCount => prevCount + 1);
             }
         }, 30);
@@ -23,12 +23,12 @@ const Languages = () => {
                 <span className='text-Snow text-xs font-bold'>Languages</span>
                 <div className="flex flex-row items-center justify-center space-x-6">
                     <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#1fdf64" type="circle" percent={urdu} size={95} />
-                        <span className='text-xs font-bold text-Snow'>Spanish</span>
+                        <Progress strokeColor="#1fdf64" type="circle" percent={english} size={80} />
+                        <span className='text-xs font-bold text-Snow'>English</span>
                     </div>
                     <div className="flex flex-col items-center justify-center gap-y-2">
-                        <Progress strokeColor="#1fdf64" type="circle" percent={english} size={60} />
-                        <span className='text-xs font-bold text-Snow'>English</span>
+                        <Progress strokeColor="#1fdf64" type="circle" percent={urdu} size={90} />
+                        <span className='text-xs font-bold text-Snow'>Chinese</span>
                     </div>
                 </div>
             </div>
