@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2 align="center">Julio Acin - Personal portfolio</h2>
+  <h2 align="center">Kai De Tan - Personal portfolio</h2>
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
@@ -27,18 +27,18 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/mymiracle0118/MyPorfolio.git
+sudo git clone https://github.com/toptalhook/MyPorfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/mymiracle0118/MyPorfolio.git
+git clone https://github.com/toptalhook/MyPorfolio.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me by using noahsflood908@gmail.com.
+If you want to contact with me you can reach me by using toptall.cook@gmail.com.
 
 ### License
 
