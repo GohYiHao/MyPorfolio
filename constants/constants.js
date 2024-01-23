@@ -27,11 +27,11 @@ export const SKILLS = [
   },
   {
     title: 'Frontend Developer',
-    level: '70%',
+    level: '80%',
   },
   {
     title: 'App Developer',
-    level: '60%',
+    level: '70%',
   },
   // {
   //   title: 'Technical Blogger',
